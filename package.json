@@ -1,0 +1,19 @@
+{
+  "name": "@ryanburnette/airport-data",
+  "version": "2.1.0",
+  "description": "A wrapper for the Airport-data.com API.",
+  "main": "index.js",
+  "author": "Ryan Burnette <ryan.burnette@gmail.com> (https://ryanburnette.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanburnette/airport-data.git"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.13.0",
+    "prettier": "^2.3.2"
+  }
+}
